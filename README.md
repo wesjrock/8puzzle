@@ -29,7 +29,7 @@ HOW TO USE
 ```bash
   When you run `bfs8puzzle` or `astar8puzzle`, the program will ask you:
   Do you want to use a random board? (y/n)
-  Just answer yes or no and the program will give you the step by step solution plus the time it took to solve the board.
+  Just answer yes or no and the program will give you a step by step solution and the time it took to solve the board.
 ```
 
 MORE INFO
