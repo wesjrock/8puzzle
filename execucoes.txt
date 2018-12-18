@@ -1,0 +1,109 @@
+10 movimentos
+0 1 2 8 5 3 4 7 6
+bfs: 0
+a*: 0.015
+
+11 movimentos
+1 2 6 0 3 5 4 7 8
+bfs: 0.016
+a*: 0.015
+
+12 movimentos
+4 3 6 7 2 1 0 5 8
+bfs: 0.031
+a*: 0.015
+
+13 movimentos
+4 3 6 7 2 1 0 5 8
+bfs: 0.175
+a*: 0.015
+
+14 movimentos
+6 3 4 1 0 2 7 5 8
+bfs: 0.329
+a*: 0.016
+
+15 movimentos
+2 1 4 7 6 3 8 0 5
+bfs: 0.634
+a*: 0.015
+
+16 movimentos
+3 5 2 7 1 4 8 6 0
+bfs: 2.767
+a*: 0.015
+
+17 movimentos
+7 1 5 8 2 0 4 3 6
+bfs: 6.950
+a*: 0.015
+
+18 movimentos
+5 4 6 2 0 1 7 3 8
+bfs: 20.385
+a*: 0.046
+
+19 movimentos
+6 5 7 2 1 0 4 8 3
+bfs: 31.589
+a*: 0.156
+
+20 movimentos
+1 5 3 7 6 2 0 8 4
+bfs: ???
+a*: 0.062
+
+21 movimentos
+1 3 7 5 4 2 6 0 8
+bfs: ???
+a*: 0.031
+
+22 movimentos
+1 3 7 5 4 2 6 8 0
+bfs: ???
+a*: 0.054
+
+23 movimentos
+4 3 8 0 5 6 1 2 7
+bfs: ???
+a*: 0.109
+
+24 movimentos
+4 6 8 2 5 7 3 1 0
+bfs: ???
+a*: 0.485
+
+25 movimentos
+2 1 6 7 8 0 4 5 3
+bfs: ???
+a*: 2.538
+
+26 movimentos
+8 6 2 5 4 1 0 3 7
+bfs: ???
+a*: 2.020
+
+27 movimentos
+8 6 2 5 4 1 3 0 7
+bfs: ???
+a*: 4.464
+
+28 movimentos
+8 6 2 5 4 1 3 7 0
+bfs: ???
+a*: 7.778
+
+29 movimentos
+8 6 2 5 4 0 3 7 1
+bfs: ???
+a*: 18.080
+
+30 movimentos
+8 6 0 5 4 2 3 7 1
+bfs: ???
+a*: 33.080
+
+31 movimentos
+8 6 7 2 5 4 3 0 1
+bfs: ???
+a*: 134.066
