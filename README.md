@@ -16,7 +16,7 @@ Clone 8puzzle repository:
   $ git clone https://github.com/wesjrock/8puzzle.git
 ```
 
-Compiling 
+Compiling: 
 
 ```bash
   $ gcc bfs8puzzle.c -o executable_name
