@@ -23,7 +23,7 @@ Compiling:
   $ gcc astar8puzzle.c -o executable_name
 ```
 
-HOW TO USE 
+HOW TO RUN 
 --------------------------------------------------
 
 ```bash
