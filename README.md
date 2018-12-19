@@ -5,7 +5,7 @@
 
 OVERVIEW
 --------------------------------------------------
-This is an implementation of an 8-puzzle game solver for the [Artificial Intelligence] course. The purpose of this project was to implement and compare informed and non-uniformed search algorithms. The algorithms used in this project are A* and Breadth First Search.  It was made at the Computer Science course from University of São Paulo (ICMC - USP).
+This is an implementation of an 8-puzzle game solver for the [Artificial Intelligence] course. The purpose of this project was to implement and compare informed and non-uniformed search algorithms. The algorithms used in this project are A* and Breadth First Search.  It was made at the Computer Science undergraduate program from University of São Paulo (ICMC - USP).
 
 HOW TO COMPILE 
 --------------------------------------------------
