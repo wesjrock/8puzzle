@@ -31,6 +31,13 @@ HOW TO RUN
   Do you want to use a random board? (y/n)
   Just answer and the program will give you a step by step solution and the time it took to solve the board.
 ```
+CREDITS
+--------------------------------------------------
+- Luan Gustavo Orlandi
+- Maiser José Alves Oliva
+- Hamilton Gonçalves Junior
+- Werik Fachim
+- Wesley Tiozzo
 
 MORE INFO
 --------------------------------------------------
